@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jamie, an inspiring software engineer.
+- 👋 Hi, I’m Jamie, an aspiring software engineer.
 
 <!---
 Jaables/Jaables is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
